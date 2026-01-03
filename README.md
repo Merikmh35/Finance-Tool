@@ -64,7 +64,6 @@ Verify Python is installed:
 2. Run:
    ```bash
    python --version
-````
 
 You should see something like:
 
