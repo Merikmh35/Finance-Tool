@@ -68,9 +68,7 @@ Verify Python is installed:
 
 You should see something like:
 
-```
 Python 3.11.x
-```
 
 If `python` is not recognized, reinstall Python and make sure **Add Python to PATH** is checked.
 
@@ -102,9 +100,7 @@ VS Code is the easiest and most reliable way to run this program.
 1. Open VS Code
 2. Press:
 
-   ```
-   Ctrl + Shift + `
-   ```
+  Ctrl + Shift + `
 
    to open the terminal
 3. Run:
