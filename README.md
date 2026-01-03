@@ -171,27 +171,6 @@ If you get missing module errors:
 
 ---
 
-## Running without VS Code (Command Prompt)
-
-1. Open Command Prompt
-2. Navigate to the folder:
-
-   ```bash
-   cd C:\Users\YourName\Documents\finance-tool
-   ```
-3. Install dependencies:
-
-   ```bash
-   python -m pip install -r requirements.txt
-   ```
-4. Run:
-
-   ```bash
-   python finance_sim.py
-   ```
-
----
-
 ## Using the program
 
 When prompted, enter tickers separated by commas.
