@@ -85,7 +85,7 @@ VS Code is the easiest and most reliable way to run this program.
   Ctrl + Shift + `
 ```
 
-   to open the terminal
+To open the terminal
 3. Run:
 
    ```bash
