@@ -107,7 +107,7 @@ VS Code is the easiest and most reliable way to run this program.
 3. Run:
 
    ```bash
-   git clone https://github.com/YOURNAME/finance-tool.git
+   git clone https://github.com/Merikmh35/finance-tool.git
    cd finance-tool
    ```
 
