@@ -46,24 +46,6 @@ Verify Python is installed:
 2. Run:
    ```bash
    python --version
-   
----
-
-## Step 1: Install Python (Windows)
-
-1. Go to:
-   https://www.python.org/downloads/
-2. Download Python 3.10 or newer
-3. Run the installer
-4. IMPORTANT: check the box:
-   - **Add Python to PATH**
-5. Finish installation
-
-Verify Python is installed:
-1. Open Command Prompt
-2. Run:
-   ```bash
-   python --version
 
 You should see something like:
 
