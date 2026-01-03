@@ -1,10 +1,3 @@
-Here is a **fully updated, ready to paste `README.md`**.
-You can copy this exactly as is and paste it into a file named `README.md` in your repo.
-
-It includes **very detailed, beginner proof steps**, VS Code instructions, and update instructions.
-
----
-
 ````md
 # Multi Asset Valuation Tool
 
