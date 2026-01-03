@@ -70,7 +70,7 @@ VS Code is the easiest and most reliable way to run this program.
 1. Open VS Code
 2. Click **Extensions** on the left sidebar
 3. Search for **Python**
-4. Install the extension by Microsoft
+4. Install **Python by Microsoft**
 
 ---
 
